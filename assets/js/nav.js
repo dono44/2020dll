@@ -10,7 +10,7 @@ function scrollFunction() {
     document.getElementById("logo").style.fontSize = "10px";
 
   } else {
-    document.getElementById("navbar").style.padding = "10px 5px";
-    document.getElementById("logo").style.fontSize = "5px";
+    document.getElementById("navbar").style.padding = "5px 3px";
+    document.getElementById("logo").style.fontSize = "3px";
   }
 }
