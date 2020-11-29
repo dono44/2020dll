@@ -7,6 +7,7 @@ body {
     overflow: hidden;
     background-color: #00b0cf;
     padding: 90px 5px;
+    padding: 30px  10px;
     transition: 0.4s;
     position: fixed;
     width: 100%;
@@ -21,7 +22,7 @@ body {
     padding: 12px;
     text-decoration: none;
     font-size: 18px; 
-    line-height: 25px;
+    line-height: 250px;
     border-radius: 4px;
   }
   
@@ -45,9 +46,9 @@ body {
     float: right;
   }
   
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 500px) {
     #navbar {
-      padding: 10px 10px !important;
+      padding: 30px 10px !important;
     }
     #navbar a {
       float: none;
