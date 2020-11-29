@@ -3,10 +3,10 @@ window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
   if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-    document.getElementById("navbar").style.padding = "900px 900px";
-    document.getElementById("logo").style.fontSize = "100px";
+    document.getElementById("navbar").style.padding = "90px 10px";
+    document.getElementById("logo").style.fontSize = "10px";
   } else {
-    document.getElementById("navbar").style.padding = "900px 900px";
-    document.getElementById("logo").style.fontSize = "100px";
+    document.getElementById("navbar").style.padding = "90px 10px";
+    document.getElementById("logo").style.fontSize = "10px";
   }
 }
