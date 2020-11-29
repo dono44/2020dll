@@ -9,7 +9,7 @@ body {
     padding: 90px 90px;
     transition: 0.4s;
     position: fixed;
-    width: 100%;
+    width: 1000%;
     top: 0;
     z-index: 99;
   }
