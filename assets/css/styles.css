@@ -47,7 +47,7 @@ body {
   
   @media screen and (max-width: 400px) {
     #navbar {
-      padding: 90px 10px !important;
+      padding: 90px 30px !important;
     }
     #navbar a {
       float: none;
