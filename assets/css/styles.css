@@ -6,10 +6,10 @@ body {
   #navbar {
     overflow: hidden;
     background-color: #00b0cf;
-    padding: 50px 5px;
+    padding: 90px 5px;
     transition: 0.4s;
     position: fixed;
-    width: 50%;
+    width: 100%;
     top: 0;
     z-index: 99;
   }
