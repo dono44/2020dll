@@ -6,10 +6,10 @@ body {
   #navbar {
     overflow: hidden;
     background-color: #00b0cf;
-    padding: 900px  900px;
+    padding: 90px  10px;
     transition: 0.4s;
     position: fixed;
-    width: 1000%;
+    width: 100%;
     top: 0;
     z-index: 99;
   }
@@ -18,7 +18,7 @@ body {
     float: left;
     color: black;
     text-align: center;
-    padding: 100002px;
+    padding: 12px;
     text-decoration: none;
     font-size: 18px; 
     line-height: 250px;
@@ -47,7 +47,7 @@ body {
   
   @media screen and (max-width: 600px) {
     #navbar {
-      padding: 900px 900px !important;
+      padding: 90px 10px !important;
     }
     #navbar a {
       float: none;
