@@ -6,7 +6,7 @@ body {
   #navbar {
     overflow: hidden;
     background-color: #00b0cf;
-    padding: 90px  10px;
+    padding: 30px  10px;
     transition: 0.4s;
     position: fixed;
     width: 100%;
@@ -45,9 +45,9 @@ body {
     float: right;
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 500px) {
     #navbar {
-      padding: 90px 10px !important;
+      padding: 30px 10px !important;
     }
     #navbar a {
       float: none;
